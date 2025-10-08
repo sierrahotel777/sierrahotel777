@@ -39,7 +39,7 @@ BusBuzz is a containerized, full-stack application demonstrating a production-gr
 | **Deployment** | **Docker** & **GitHub Actions** | Fully automated CI/CD to Azure |
 | **Infrastructure** | Terraform (IaC Definition) | Code Versioned |
 
-**👉 [Live Application Link](https://gentle-desert-061c2cd0f.2.azurestaticapps.net/)**
+**👉 [Live Application Link](https://happy-sky-0cd5db40f.1.azurestaticapps.net/)**
 
 **👉 [View BusBuzz Repository](https://github.com/sierrahotel777/BusBuzz)**
 
